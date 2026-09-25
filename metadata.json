@@ -1,0 +1,6 @@
+{
+  "name": "ArcGPT",
+  "description": "Offline natural-language to local PostgreSQL query translation system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["LOCAL_OLLAMA", "LOCAL_POSTGRESQL", "READ_ONLY_SQL"]
+}
